@@ -1,4 +1,4 @@
-# Front-End Study Practice
+# Practice
 
 - Javascript
 - React.js
