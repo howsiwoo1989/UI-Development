@@ -5,5 +5,4 @@
 - Vue.js
 - Node.js / NPM
 - Sass
-- REST API
-- GraphQl
+- UI 가이드 참고자료
