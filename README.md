@@ -1,8 +1,7 @@
-# UI Study or Practice
+# UI 참고 가이드
 
-- Javascript
-- React.js
-- Vue.js
-- Node.js / NPM
-- Sass
-- UI 가이드 참고자료
+- 토스트 UI
+https://ui.toast.com/
+
+- 레진 기술블로그
+https://tech.lezhin.com/
